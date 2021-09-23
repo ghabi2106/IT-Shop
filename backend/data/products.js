@@ -1,0 +1,126 @@
+const products = [
+  {
+    name: 'Asus Pc M509DA ',
+    image: '/images/1.jpg',
+    image1: '/images/2.jpg',
+    image2: '/images/3.jpg',
+    image3: '/images/4.jpg',
+    description: 'Modele R3-3250U 4GO 1Tr Win10 Silver 15.6 -Garantie 1an',
+    brand: 'Asus',
+    category: 'Electronics',
+    price: 399.99,
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'iPhone 11 Pro 256GB',
+    image: '/images/3.jpg',
+    description:
+      'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 599.99,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'DELL PC Inspiron 5570',
+    image: '/images/2.jpg',
+    description:
+      'Screen 15.6 "Full HD LED - Intel Core i7-8550U processor, up to 4.0 GHz, 8 MB cache - memory 8 GB - HDD 1 TB - Graphics Card AMD Radeon 530, 4GB of GDDR5 dedicated memory - WiFi - Bluetooth - USB 3.1 - HDMI - SD card reader',
+    brand: 'DELL',
+    category: 'Electronics',
+    price: 829.99,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Smart Watch ',
+    image: '/images/4.jpg',
+    description:
+      'Urun S comes with 17 professional sports modes like running, hiking, climbing and cycling. get a precise distance and pace. Also, Urun S detects your body movements, monitors your heart rate in real time and measures your calories burned when you exercise.',
+    brand: 'UMIDIGI Urun S',
+    category: 'Electronics',
+    price: 99.99,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Android Controller ',
+    image: '/images/5.jpg',
+    description:
+      'BT Wireless Controller, Multifunction suitable for Smartphones, Table, PC, TV, TV Box etc. For non-BT devices, you need BT adapter (not included) to connect.',
+    brand: 'Electronics Art',
+    category: 'Game',
+    price: 9.99,
+    countInStock: 1,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Borofone Wireless',
+    image: '/images/6.jpg',
+    description:
+      'All new BOROFONE, dare to change! Completed trademark registration in over 100 countries. As the market gradually networked, BOROFONE began to enter the market of all categories of mobile accessories to create a unique brand of fashionable accessories with prices.',
+    brand: 'BOROFONE',
+    category: 'Electronics',
+    price: 20.00,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: ' Micro Gaming Headset',
+    image: '/images/7.jpg',
+    description:
+      'FANTECH model HG15 (Captains 7.1) stereo headset for gaming Headset gaming headset with microphones, 7.1 stereo system, surround sound, RGB lights around the headset',
+    brand: 'Fan Tech',
+    category: 'Electronics',
+    price: 25.60,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Huawei Watch ',
+    image: '/images/8.jpg',
+    description:
+      'By wearing the eco-friendly and lightweight bracelet on your wrist, you can benefit from tracking your activity, your sleep and other smart features that will make your life easier.',
+    brand: 'Huawei',
+    category: 'Electronics',
+    price: 15.99,
+    countInStock: 8,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Wireless charger',
+    image: '/images/9.jpg',
+    description:
+      'Fast wireless charger compatible with smartphones equipped with Qi technology, generally high-end smartphones support it. Since the iPhone 8 and X, Apple offers it on its products, just like Samsung on its recent and older Galaxy S.',
+    brand: 'Samsung',
+    category: 'Electronics',
+    price: 12.99,
+    countInStock: 5,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Lenovo Tab M7 7.0',
+    image: '/images/10.jpg',
+    description:
+      'The MediaPad T3 7 "tablet incorporates a MediaTek MT8127 Quad-Core processor clocked at 1.3 GHz and 1 GB of RAM for ideal daily operation. It also has a slot for a Micro SDXC card (128 GB max.) To complete 16 GB of internal storage.',
+    brand: 'Lenovo',
+    category: 'Electronics',
+    price: 150.00,
+    countInStock: 25,
+    rating: 0,
+    numReviews: 0,
+  }
+];
+
+export default products;
